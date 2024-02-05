@@ -1,0 +1,2 @@
+command + option + L = formatear lineas
+control + shift + R = run / ejecutar el archivo donde estoy parada
